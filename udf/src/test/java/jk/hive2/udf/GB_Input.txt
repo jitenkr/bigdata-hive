@@ -1,0 +1,9 @@
+AddressLine1	Country
+"8 CANADA SQUARE CANARY WHARF, LONDON"	GB
+"100 OLD BROAD STREET, LONDON"	GB
+"21 College Hill, London EC4R 2RP, UK"	GB
+"30 Fenchurch St, London EC3M 3AD, UK"	GB
+"13 Haydon St, London EC3N, UK"	GB
+	
+	
+	
